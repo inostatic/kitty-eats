@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kitty-eats/static/css/main.c26ce1df.chunk.css",
+    "main.js": "/kitty-eats/static/js/main.873dbcd3.chunk.js",
+    "main.js.map": "/kitty-eats/static/js/main.873dbcd3.chunk.js.map",
+    "runtime-main.js": "/kitty-eats/static/js/runtime-main.fa36bb38.js",
+    "runtime-main.js.map": "/kitty-eats/static/js/runtime-main.fa36bb38.js.map",
+    "static/js/2.58276863.chunk.js": "/kitty-eats/static/js/2.58276863.chunk.js",
+    "static/js/2.58276863.chunk.js.map": "/kitty-eats/static/js/2.58276863.chunk.js.map",
+    "index.html": "/kitty-eats/index.html",
+    "precache-manifest.ce169d999ee632e6ea4e4b272265b2f9.js": "/kitty-eats/precache-manifest.ce169d999ee632e6ea4e4b272265b2f9.js",
+    "service-worker.js": "/kitty-eats/service-worker.js",
+    "static/css/main.c26ce1df.chunk.css.map": "/kitty-eats/static/css/main.c26ce1df.chunk.css.map",
+    "static/js/2.58276863.chunk.js.LICENSE.txt": "/kitty-eats/static/js/2.58276863.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/kitty-eats/static/media/trebuc.f68bcb3c.eot",
+    "static/media/cat.png": "/kitty-eats/static/media/cat.c1d2e8db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa36bb38.js",
+    "static/js/2.58276863.chunk.js",
+    "static/css/main.c26ce1df.chunk.css",
+    "static/js/main.873dbcd3.chunk.js"
+  ]
+}
