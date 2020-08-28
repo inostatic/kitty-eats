@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68a71512fc8ab25cfa1888fdd23f62d5",
+    "revision": "33f912bdb5c6bec244e939a465695864",
     "url": "/kitty-eats/index.html"
   },
   {
-    "revision": "5f322ddf4976c41f010e",
-    "url": "/kitty-eats/static/css/main.c26ce1df.chunk.css"
+    "revision": "54dc9543e5a43c5e2cda",
+    "url": "/kitty-eats/static/css/main.661bb5ed.chunk.css"
   },
   {
     "revision": "c7ae0ad8a59769ad0061",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kitty-eats/static/js/2.58276863.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f322ddf4976c41f010e",
+    "revision": "54dc9543e5a43c5e2cda",
     "url": "/kitty-eats/static/js/main.873dbcd3.chunk.js"
   },
   {
