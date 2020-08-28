@@ -10,7 +10,7 @@ const App = () => {
 
     useEffect(() => {
         dispatch(fetchCards())
-    }, [])
+    }, [dispatch])
 
 
     return (
