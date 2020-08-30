@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33f912bdb5c6bec244e939a465695864",
+    "revision": "fc9ca074ee56609d8247ef7c6043f843",
     "url": "/kitty-eats/index.html"
   },
   {
-    "revision": "54dc9543e5a43c5e2cda",
-    "url": "/kitty-eats/static/css/main.661bb5ed.chunk.css"
+    "revision": "a2d84a4d04e25373a652",
+    "url": "/kitty-eats/static/css/main.f82b4564.chunk.css"
   },
   {
     "revision": "c7ae0ad8a59769ad0061",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kitty-eats/static/js/2.58276863.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54dc9543e5a43c5e2cda",
+    "revision": "a2d84a4d04e25373a652",
     "url": "/kitty-eats/static/js/main.873dbcd3.chunk.js"
   },
   {
@@ -48,19 +48,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kitty-eats/static/media/pattern.8007da0e.png"
   },
   {
-    "revision": "70ba133fe9fa8b6dfa0e575a2598be11",
-    "url": "/kitty-eats/static/media/trebuc.70ba133f.svg"
+    "revision": "48c4ef39806ef76eaeced814b8a5705c",
+    "url": "/kitty-eats/static/media/trebuc.48c4ef39.ttf"
   },
   {
-    "revision": "cf09781f0904c29ad1f58b6c842aac64",
-    "url": "/kitty-eats/static/media/trebuc.cf09781f.woff"
+    "revision": "a8b28478e198c0b309c6ac9d09624fbd",
+    "url": "/kitty-eats/static/media/trebuc.a8b28478.eot"
   },
   {
-    "revision": "ea3fdfa648b7ec0e4183621443f549e3",
-    "url": "/kitty-eats/static/media/trebuc.ea3fdfa6.ttf"
+    "revision": "ddae49213076e7e97c5162c6be9d5e22",
+    "url": "/kitty-eats/static/media/trebuc.ddae4921.woff"
   },
   {
-    "revision": "f68bcb3ca5482544b6827d339bf95dd5",
-    "url": "/kitty-eats/static/media/trebuc.f68bcb3c.eot"
+    "revision": "f64d13a1d40e4fa9f62a49ea0857bcc8",
+    "url": "/kitty-eats/static/media/trebuc.f64d13a1.svg"
   }
 ]);
